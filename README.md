@@ -36,6 +36,6 @@ Open contributions for bug fixes, functionality enhancements, and addition of ne
 Distribution of this program is licensed under the MIT License. See [LICENSE](LICENSE) for further details.
 
 ## Notes
-- This program has been tested in a Linux environment and may require additional adjustments to run on other platforms.
+- This program has been tested in a Windows 10 environment and may require additional adjustments to run on other platforms.
 - Hand detection performance may vary depending on the camera quality and lighting conditions.
 
