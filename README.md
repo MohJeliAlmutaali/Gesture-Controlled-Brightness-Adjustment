@@ -1,4 +1,5 @@
-# Hand Distance Brightness Control
+# Gesture-Controlled-Brightness-Adjustment
+## Hand Distance Brightness Control
 
 Hand Distance Brightness Control is a Python program that allows users to control computer screen brightness using hand gestures. This program utilizes hand detection with MediaPipe and OpenCV to measure the distance between the index finger and thumb, and adjusts the screen brightness accordingly.
 
@@ -18,7 +19,7 @@ Hand Distance Brightness Control is a Python program that allows users to contro
 ### Installation Steps
 1. Clone this repository or download the `hand_distance_brightness_control.py` file.
 2. Ensure all dependencies are installed by running `pip install -r requirements.txt`.
-3. Run the program by executing the command `python hand_distance_brightness_control.py`.
+3. Run the program by executing the command `python main.py`.
 
 ## Usage
 1. Run the program by executing the command `python hand_distance_brightness_control.py`.
